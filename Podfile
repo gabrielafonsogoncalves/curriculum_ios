@@ -1,0 +1,7 @@
+platform :ios, '6.1'
+pod 'SSKeychain', '~> 0.1.4'
+pod 'FormatterKit', '~> 1.1.1'
+pod 'SDURLCache', '~> 1.2'
+pod 'Reachability', '~> 3.1.0'
+pod 'vfrReader', '~> 2.5.6'
+pod 'MBProgressHUD', '~> 0.6'

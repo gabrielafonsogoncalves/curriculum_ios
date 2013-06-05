@@ -1,0 +1,39 @@
+PODS:
+  - FormatterKit (1.1.2):
+    - FormatterKit/AddressFormatter
+    - FormatterKit/ArrayFormatter
+    - FormatterKit/LocationFormatter
+    - FormatterKit/OrdinalNumberFormatter
+    - FormatterKit/TimeIntervalFormatter
+    - FormatterKit/UnitOfInformationFormatter
+    - FormatterKit/URLRequestFormatter
+  - FormatterKit/AddressFormatter (1.1.2)
+  - FormatterKit/ArrayFormatter (1.1.2)
+  - FormatterKit/LocationFormatter (1.1.2)
+  - FormatterKit/OrdinalNumberFormatter (1.1.2)
+  - FormatterKit/TimeIntervalFormatter (1.1.2)
+  - FormatterKit/UnitOfInformationFormatter (1.1.2)
+  - FormatterKit/URLRequestFormatter (1.1.2)
+  - MBProgressHUD (0.6)
+  - Reachability (3.1.0)
+  - SDURLCache (1.2)
+  - SSKeychain (0.1.4)
+  - vfrReader (2.5.6)
+
+DEPENDENCIES:
+  - FormatterKit (~> 1.1.1)
+  - MBProgressHUD (~> 0.6)
+  - Reachability (~> 3.1.0)
+  - SDURLCache (~> 1.2)
+  - SSKeychain (~> 0.1.4)
+  - vfrReader (~> 2.5.6)
+
+SPEC CHECKSUMS:
+  FormatterKit: bb53f3de30773e6b06f91dee1f82b46f536278d7
+  MBProgressHUD: 9b55a90566fb5d07df0602f6fd9fa04510ad5d52
+  Reachability: ba94ecd4eaa037be3d0588b38956672588530c5b
+  SDURLCache: cf4dcdd0d01473c334e9338e82a8733de156ef15
+  SSKeychain: bae692a4354f48691ca3463a121dc8060f781a7d
+  vfrReader: 07a77e7cbb1b65cb135a83084b196dbdd0f61ea0
+
+COCOAPODS: 0.19.1
